@@ -6,8 +6,11 @@ Cosmetic Online Shop of an offline retailer which has got many features like
 
 
 *ML based product recommendation and image/ search based recommendations
+
 *AR based trial for trying lipsticks ,eyeshadows and pan cakes.
+
 *Chat bots for easy usage of site
+
 *Loyalty programs like personalized product  eidts and product masterclasses
 
 Proposed solutions: 
