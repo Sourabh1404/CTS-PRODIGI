@@ -1,7 +1,7 @@
 
 # CTS DIGITAL PRoDIGI 2022
 
-Description:
+#Description:
 Cosmetic Online Shop of an offline retailer which has got many features like 
 
 
