@@ -45,7 +45,7 @@ AR trials : mind-ar (library of Js) , python library-media pipe and open cv
 
 Previously, our team has worked on a data science based project of movie recommendation system ( ML) and also we have previously worked on an e-commerce website named "shopique", using web development.
 
-[![website](shopique.vercel.app)]
+website:-[shopique.vercel.app]
 
 
 **Refer to the Solution.pptx for detailed proposed solution.**
