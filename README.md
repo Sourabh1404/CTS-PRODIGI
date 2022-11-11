@@ -6,13 +6,13 @@
 Cosmetic Online Shop of an offline retailer which has got many features like 
 
 
-  •ML based product recommendation and image/ search based recommendations
+  ◾ML based product recommendation and image/ search based recommendations
 
-  •AR based trial for trying lipsticks ,eyeshadows and pan cakes.
+  ◾AR based trial for trying lipsticks ,eyeshadows and pan cakes.
 
-  •Chat bots for easy usage of site
+  ◾Chat bots for easy usage of site
 
-  •Loyalty programs like personalized product  eidts and product masterclasses
+  ◾Loyalty programs like personalized product  eidts and product masterclasses
 
 **Proposed solutions:** 
  1. web 3.0 
@@ -45,8 +45,7 @@ AR trials : mind-ar (library of Js) , python library-media pipe and open cv
 
 Previously, our team has worked on a data science based project of movie recommendation system ( ML) and also we have previously worked on an e-commerce website named "shopique", using web development.
 
-website:-[shopique.vercel.app](shopique.vercel.app)
-
+website:-shopique.vercel.app
 
 **Refer to the Solution.pptx for detailed proposed solution.**
 
@@ -61,3 +60,7 @@ ASHITA VERMA (20BCE10353)
 SUMAN KR BISOI (20BCE10418)
 
 SOURABH KR GUPTA (20BCE10879)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
