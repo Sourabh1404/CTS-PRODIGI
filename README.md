@@ -16,19 +16,27 @@ Cosmetic Online Shop of an offline retailer which has got many features like
 Proposed solutions: 
 1. web 3.0 
 
-2. hyper-personalizing 
+2. hyper-personalizing
+ 
 AR trials : mind-ar (library of Js) , python library-media pipe and open cv
-*service chat bots
-*personalized recommendations
-*image search/recommendation
-*chat bot
+
+◾service chat bots
+
+◾personalized recommendations
+
+◾image search/recommendation
+
+◾chat bot
 
 3. Digital Campaigns
 
-*Omnichannel Marketing omnichannel customer services
-*Utilize Google Shopping:-"near me" search
-*Social Medial Marketing
-*loyalty programs: Personalized product edits, Product masterclasses
+◾Omnichannel Marketing omnichannel customer services
+
+◾Utilize Google Shopping:-"near me" search
+
+◾Social Medial Marketing
+
+◾loyalty programs: Personalized product edits, Product masterclasses
 
 
 Background work:
