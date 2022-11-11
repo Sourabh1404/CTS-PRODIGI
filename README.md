@@ -5,38 +5,38 @@ Description:
 Cosmetic Online Shop of an offline retailer which has got many features like 
 
 
-*ML based product recommendation and image/ search based recommendations
+  ◾ML based product recommendation and image/ search based recommendations
 
-*AR based trial for trying lipsticks ,eyeshadows and pan cakes.
+  ◾AR based trial for trying lipsticks ,eyeshadows and pan cakes.
 
-*Chat bots for easy usage of site
+  ◾Chat bots for easy usage of site
 
-*Loyalty programs like personalized product  eidts and product masterclasses
+  ◾Loyalty programs like personalized product  eidts and product masterclasses
 
 Proposed solutions: 
-1. web 3.0 
+ 1. web 3.0 
 
-2. hyper-personalizing
+ 2. hyper-personalizing
  
 AR trials : mind-ar (library of Js) , python library-media pipe and open cv
 
-◾service chat bots
+  ◾service chat bots
 
-◾personalized recommendations
+  ◾personalized recommendations
 
-◾image search/recommendation
+  ◾image search/recommendation
 
-◾chat bot
+  ◾chat bot
 
 3. Digital Campaigns
 
-◾Omnichannel Marketing omnichannel customer services
+  ◾Omnichannel Marketing omnichannel customer services
 
-◾Utilize Google Shopping:-"near me" search
+  ◾Utilize Google Shopping:-"near me" search
 
-◾Social Medial Marketing
+  ◾Social Medial Marketing
 
-◾loyalty programs: Personalized product edits, Product masterclasses
+  ◾loyalty programs: Personalized product edits, Product masterclasses
 
 
 Background work:
@@ -46,7 +46,7 @@ Previously, our team has worked on a data science based project of movie recomme
 
 website:-shopique.vercel.app
 
-//** Refer to the Solution.pptx for detailed proposed solution.**//
+** Refer to the Solution.pptx for detailed proposed solution.**
 
 Team members:
 
