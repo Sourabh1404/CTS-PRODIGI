@@ -45,7 +45,7 @@ AR trials : mind-ar (library of Js) , python library-media pipe and open cv
 
 Previously, our team has worked on a data science based project of movie recommendation system ( ML) and also we have previously worked on an e-commerce website named "shopique", using web development.
 
-website:-shopique.vercel.app
+website:- [![shopique.vercel.app]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://shopique.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FShopping1.23e210c3.png&w=96&q=75))](https://shopique.vercel.app/)
 
 **Refer to the Solution.pptx for detailed proposed solution.**
 
@@ -61,6 +61,5 @@ SUMAN KR BISOI (20BCE10418)
 
 SOURABH KR GUPTA (20BCE10879)
 [![shopique.vercel.app]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://shopique.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FShopping1.23e210c3.png&w=96&q=75))](https://shopique.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
