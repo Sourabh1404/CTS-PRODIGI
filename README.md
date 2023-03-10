@@ -52,7 +52,7 @@ website:- [![https://shopique.vercel.app/](https://shopique.vercel.app/)](https:
 
 Team members:
 
-ROHAN SIGNH (20BCE10879)
+ROHAN SIGNH 
 
 MOHIT KR DUBEY (20BCE10161)
 
